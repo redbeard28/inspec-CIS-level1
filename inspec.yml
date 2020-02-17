@@ -6,6 +6,4 @@ copyright_email: info@redbeard-consulting.fr
 license: Apache-2.0
 summary: Audit CIS Benchmark level 1 with InSpec
 version: 0.1.0
-supports:
-  platform: Debian
 
